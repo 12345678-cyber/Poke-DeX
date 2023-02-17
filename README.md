@@ -1,4 +1,4 @@
-/* <div align="center">
+<div align="center">
 
     <img
 
@@ -88,5 +88,6 @@ Button : If you are deploying normally
 
 ## 📄 License
 
-- Distributed under the GNU AFFERO GENERAL PUBLIC License. See [LICENSE](/LICENSE) for more information. */
+- Distributed under the GNU AFFERO GENERAL PUBLIC License. See [LICENSE](/LICENSE) for more information. 
+
 #POKE-DEX GAME JS SCRIPT BY SCOTCH
