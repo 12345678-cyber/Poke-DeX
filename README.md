@@ -1,11 +1,6 @@
-<div align="center">
+<div align="center"> POKE-DEX
 
-    <img
-
-        src="https://readme-typing-svg.herokuapp.com?font=Aclonica&color=147E17&background=FF673200&center=true&vCenter=true&lines=Konichiwa....;I'am+MILAN.;A+WhatsApp+bot+built;with+node.js+language;using+lib+baileys;Multi-Device+(BETA);Have+fun+using+me+:)"
-
-            alt="Typing SVG"
-
+    
         />
 
     </a>
@@ -90,4 +85,4 @@ Button : If you are deploying normally
 
 - Distributed under the GNU AFFERO GENERAL PUBLIC License. See [LICENSE](/LICENSE) for more information. 
 
-#POKE-DEX GAME JS SCRIPT BY SCOTCH
+
