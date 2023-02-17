@@ -1,11 +1,6 @@
 <div align="center"> POKE-DEX
 
     
-        />
-
-    </a>
-
-</p>
 
 <div align="center"> <a href='https://www.linkpicture.com/view.php?img=LPic62169991d23e711584403'><img src='https://www.linkpicture.com/q/Mizugame.jpg' type='image'></a>
 
